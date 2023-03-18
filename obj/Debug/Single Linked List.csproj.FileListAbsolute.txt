@@ -1,7 +1,0 @@
-C:\Users\yusuf\source\repos\Single Linked List\bin\Debug\Single Linked List.exe.config
-C:\Users\yusuf\source\repos\Single Linked List\bin\Debug\Single Linked List.exe
-C:\Users\yusuf\source\repos\Single Linked List\bin\Debug\Single Linked List.pdb
-C:\Users\yusuf\source\repos\Single Linked List\obj\Debug\Single Linked List.csproj.AssemblyReference.cache
-C:\Users\yusuf\source\repos\Single Linked List\obj\Debug\Single Linked List.csproj.CoreCompileInputs.cache
-C:\Users\yusuf\source\repos\Single Linked List\obj\Debug\Single Linked List.exe
-C:\Users\yusuf\source\repos\Single Linked List\obj\Debug\Single Linked List.pdb
